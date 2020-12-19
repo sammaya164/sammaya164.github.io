@@ -1,5 +1,5 @@
----
-title: sammaya164.github.io
----
+
+# sammaya164.github.io
+
 * [mmistakes](./mmistakes/)
 * other
