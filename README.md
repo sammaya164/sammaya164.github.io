@@ -1,5 +1,5 @@
 
 # sammaya164.github.io
 
-* [mmistakes](./mmistakes/)
+* [mmistakes](https://sammaya164.github.io/mmistakes)
 * other
