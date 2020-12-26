@@ -1,5 +1,10 @@
 
 # sammaya164.github.io
 
-* [mmistakes](https://sammaya164.github.io/mmistakes)
-* other
+## ヒント
+* 下記の各操作はログインが必要。
+
+### Pagesの設定
+* 各リポジトリのページ内でメニュー右端の`Setting`をクリックする。
+* 下のほうのPagesで設定する。
+
