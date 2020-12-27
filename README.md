@@ -1,7 +1,7 @@
-# Repositories
+# コンテンツ
 * [checksheets](https://sammaya164.github.io/checksheets)
 
-# GitHub操作方法の個人的メモです
+# GitHub操作方法のメモ
 * 下記の各操作はログインが必要。
 
 ### Pagesの設定
