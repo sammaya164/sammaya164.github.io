@@ -1,6 +1,7 @@
 # コンテンツ
 * [checksheets](https://sammaya164.github.io/checksheets)
 * [jekyll](https://sammaya164.github.io/jekyll)
+* [minimal-mistakes-test](https://sammaya164.github.io/minimal-mistakes-test)
 
 # GitHub操作方法のメモ
 * 下記の各操作はログインが必要。
