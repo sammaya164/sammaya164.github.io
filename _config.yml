@@ -1,0 +1,5 @@
+title: "リモートテーマtest"
+repository: "sammaya164/minimal-mistakes-test"
+
+plugins:
+  - jekyll-include-cache
