@@ -1,5 +1,3 @@
----
-layout: home
----
+
 
 <p>Home</p>
