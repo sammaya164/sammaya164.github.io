@@ -8,7 +8,8 @@ layout: "default"
 * [minimal-mistakes](https://sammaya164.github.io/minimal-mistakes)
 
 ## GitHub
-* [https://github.com/sammaya164]
+* [https://github.com/sammaya164](https://github.com/sammaya164)
 
 ## Hints
 * [https://github.co.jp]
+* [https://docs.github.com/ja](https://docs.github.com/ja)
