@@ -1,10 +1,6 @@
 ---
-layout: "default"
+layout: "home"
 ---
-
-
-## GitHub
-* [https://github.com/sammaya164](https://github.com/sammaya164)
 
 ## Hints
 * [GitHub(日本語)](https://github.co.jp)
