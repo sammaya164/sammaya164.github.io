@@ -11,5 +11,5 @@ layout: "default"
 * [https://github.com/sammaya164](https://github.com/sammaya164)
 
 ## Hints
-* [https://github.co.jp]
+* [https://github.co.jp](https://github.co.jp)
 * [https://docs.github.com/ja](https://docs.github.com/ja)
