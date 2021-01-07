@@ -1,3 +1,7 @@
+---
+layout: "default"
+---
+
 # コンテンツ
 * [checksheets](https://sammaya164.github.io/checksheets)
 * [github](https://sammaya164.github.io/github)
