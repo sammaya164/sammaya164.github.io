@@ -5,8 +5,10 @@ layout: "default"
     <h2>Repositories</h2>
     <ul>
       {% for repository in site.github.public_repositories %}
-        <li><a href="{{ repository.html_url }}">{{ repository.name }}</a></li>
-      
+        <li>
+            <a href="{{ repository.html_url }}">{{ repository.name }}</a>
+            (<a href="{{ site.url }}/{{repository.name}}">Pages</a>)
+        </li>
       {% endfor %}
     </ul>
     {{ content }}
