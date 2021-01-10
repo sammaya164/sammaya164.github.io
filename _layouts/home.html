@@ -8,6 +8,7 @@ layout: "default"
         <li>
             <a href="{{ repository.html_url }}">{{ repository.name }}</a>
             (<a href="{{ site.url }}/{{repository.name}}">Pages</a>)<br />
+            概要：{{ repository.description }}
         </li>
       {% endfor %}
     </ul>
