@@ -8,7 +8,7 @@ layout: "default"
         <li>
             <a href="{{ repository.html_url }}">{{ repository.name }}</a>
             (<a href="{{ site.url }}/{{repository.name}}">Pages</a>)<br />
-            {{ site.tagline }}
+            {{ .tagline }}
         </li>
       {% endfor %}
     </ul>
