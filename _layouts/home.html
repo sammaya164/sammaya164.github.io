@@ -7,8 +7,7 @@ layout: "default"
       {% for repository in site.github.public_repositories %}
         <li>
             <a href="{{ repository.html_url }}">{{ repository.name }}</a>
-            (<a href="{{ site.github.pages_hostname }}/{{repository.name}}">Pages</a>)<br />
-            概要：{{ repository.tagline }}
+            (<a href="{{ site.url }}/{{repository.name}}">Pages</a>)<br />
         </li>
       {% endfor %}
     </ul>
