@@ -6,9 +6,9 @@ layout: "default"
     <ul>
       {% for repository in site.github.public_repositories %}
         <li>
-            {{ repository.description }}<br />
-            <a href="{{ site.url }}/{{repository.name}}">Page</a>|
-            <a href="{{ repository.html_url }}">Repository</a>
+            {{ repository.description }}
+            (<a href="{{ site.url }}/{{repository.name}}">Page</a>|
+             <a href="{{ repository.html_url }}">Repository</a>)
         </li>
       {% endfor %}
     </ul>
