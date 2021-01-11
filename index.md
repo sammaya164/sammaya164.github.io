@@ -1,8 +1,9 @@
 ---
-layout: "metadatatest"
+layout: "home"
 ---
 
 ## Hints
-* [GitHub(日本語)](https://github.co.jp)
-* [GitHub Documentation(日本語)](https://docs.github.com/ja)
-* [GitHub Pagesを使ってみる](https://docs.github.com/ja/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)
+* GitHub([英語](https://github.com)|[日本語](https://github.co.jp))
+* GitHub Documentation([英語](https://docs.github.com/en)|[日本語](https://docs.github.com/ja))
+* GitHub Pagesを使ってみる([英語](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)|[日本語](https://docs.github.com/ja/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages))
+* Using Site.GitHub([英語](https://jekyll.github.io/github-metadata/site.github/))
