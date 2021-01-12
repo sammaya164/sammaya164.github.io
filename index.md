@@ -1,5 +1,5 @@
 ---
-layout: "metadatatest"
+layout: "home"
 ---
 
 ## 参考
