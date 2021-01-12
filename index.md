@@ -2,7 +2,7 @@
 layout: "home"
 ---
 
-## Hints
+## 参考
 * GitHub(
   [英語](https://github.com)
   |
