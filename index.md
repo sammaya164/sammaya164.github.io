@@ -1,6 +1,5 @@
 ---
 layout: "home"
-title: "ようこそ"
 ---
 
 ## 参考
