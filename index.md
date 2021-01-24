@@ -1,5 +1,6 @@
 ---
 layout: "home"
+author: true
 ---
 
 ## 参考
