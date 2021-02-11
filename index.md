@@ -27,4 +27,4 @@ layout: "home"
 * 暦、月齢の計算
 * 絵本
 * PHP
-* Java Script
+* JavaScript
