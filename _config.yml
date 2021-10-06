@@ -5,9 +5,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locate                   : "ja"
-title                    : "リモートテーマを試す"
+title                    : "さんま屋"
 name                     : "Sammaya"
-repository               : "sammaya164/minimal-mistakes-test"
+repository               : "sammaya164/sammaya164.github.io"
 words_per_minute         : 200
 
 # SEO Related
@@ -18,10 +18,10 @@ words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sammaya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "趣味のプログラマー。"
+  location         : "日本"
   email            :
   links:
     - label: "Email"
