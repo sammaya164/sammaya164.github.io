@@ -18,10 +18,10 @@ words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "Sammaya"
+  name             : "さんま屋"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "趣味のプログラマー。"
-  location         : "日本"
+  bio              : "趣味のプログラマー"
+  location         : "日本のどこか"
   email            :
   links:
     - label: "Email"
