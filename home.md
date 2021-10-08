@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+description: "最新順"
 header:
   # image: /assets/images/computer.jpg
   overlay_image: /assets/images/computer.jpg
