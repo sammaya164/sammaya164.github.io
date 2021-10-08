@@ -1,5 +1,6 @@
 ---
 layout: categories
+author-profile: true
 header:
   image: /assets/images/computer.jpg
   #overlay_image: /assets/images/computer.jpg
