@@ -146,7 +146,7 @@ defaults:
       type: posts
     values:
       layout: single
-      description: ""
+      description: " "
       header:    
           overlay_image: /assets/images/computer.jpg
       author_profile: # true
