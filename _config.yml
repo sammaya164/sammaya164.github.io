@@ -37,7 +37,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github text-color"
       url: "https://github.com/sammaya164"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -146,7 +146,7 @@ defaults:
       type: posts
     values:
       layout: single
-      description: " "
+      description: "test"
       header:    
           overlay_image: /assets/images/computer.jpg
       author_profile: # true
