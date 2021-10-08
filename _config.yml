@@ -37,7 +37,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github .my-skyblue"
+      icon: "fab fa-fw fa-github my-skyblue"
       url: "https://github.com/sammaya164"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
