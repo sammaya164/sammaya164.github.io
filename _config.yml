@@ -21,7 +21,7 @@ author:
   name             : "さんま屋"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "趣味のプログラマー"
-  location         : "日本のどこか"
+  location         : # "日本のどこか"
   email            :
   links:
     - label: "Email"
@@ -38,7 +38,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sammaya164"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -146,8 +146,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      header:    
+          overlay_image: /assets/images/computer.jpg
+      author_profile: # true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
