@@ -1,13 +1,13 @@
 ---
 categories: "ラズパイ"
-title: "ラズパイ#01_Raspberry Pi OSをインストールする"
+title: "#01_Raspberry Pi OSをインストールする"
 ---
 
 ## インストール手順
 1. 「Raspberry Pi Imager」をPCにインストールする
    * [Raspberry Piの公式サイト](https://www.raspberrypi.org/downloads/)を開く
    * インストーラをダウンロードする  
-     (ex. Windowsの場合なら`Download for Windows`をクリック)
+     (Windowsの場合なら`Download for Windows`をクリック)
    * ダウンロードしたファイルを実行する 
 1. 「Raspberry Pi Imager」を起動する
 1. `CHOOSE OS` をクリックして`Raspberry Pi OS (32bit)`を選択する
