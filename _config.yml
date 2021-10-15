@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locate                   : "ja"
 title                    : "さんま屋"
-name                     : "Sammaya"
+name                     : "sammaya164"
 repository               : "sammaya164/sammaya164.github.io"
 words_per_minute         : 200
 
@@ -19,9 +19,9 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "さんま屋"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "趣味のプログラマー"
-  location         : # "日本のどこか"
+  location         : 
   email            :
   links:
     - label: "Email"
@@ -29,7 +29,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.sammaya.jp"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -148,8 +148,9 @@ defaults:
       layout: single
       header:    
           overlay_image: /assets/images/computer.jpg
+          show_overlay_excerpt: false
       author_profile: # true
       read_time: # true
       comments: # true
       share: true
-      related: true
+      related: # true
