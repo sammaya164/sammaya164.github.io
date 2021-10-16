@@ -1,5 +1,5 @@
 ---
-title: "#04 JekyllのMinimalMistakesテーマをインストールする"
+title: "#04_JekyllのMinimal Mistakesテーマをインストールする"
 categories: "ラズパイ"
 ---
 
