@@ -11,19 +11,16 @@ categories: "ラズパイ"
 * プログラムコードのシンタックスハイライトが使える
 
 ### 参考
-Jekyllの公式サイト
-
+Jekyllの公式サイト  
 [https://jekyllrb.com/](https://jekyllrb.com)
 
-日本語ページはこちら
-
+日本語ページはこちら  
 [https://jekyllrb-ja.github.io/](https://jekyllrb-ja.github.io)
 
-Minimal Mistakesのインストール方法
-
+Minimal Mistakesのインストール方法  
 [https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-## 準備としてBundlerをインストールする
+## 準備としてBundlerをインストールしておく
 1. パッケージを更新しておく
 
     ```shell
@@ -46,7 +43,10 @@ $ sudo gem install bundler
 $ bundler -v
     ```
 
-## Jekyllをインストールする手順
+## JekyllのMinimal Mistakesテーマをインストールする手順
+
+一般のレンタルサーバや自前のサーバ上でWebページを開設する場合はこちらの手順でインストールする
+
 1. 適当な名前のディレクトリを作成する  
    (このディレクトリ内で一つのサイトを作成することになる)
 
@@ -65,8 +65,6 @@ $ cd ~/mysite
 $ vi Gemfile
     ```
 
-   テーマは`Minimal Mistakes`を使用する
-
     ```ruby
 source "https://rubygems.org"
 gem "jekyll", "~> 3.8.3"
@@ -81,13 +79,64 @@ $ bundle install
 
     ```shell
 $ bundle info jekyll
-  * jekyll (3.8.7)
-        Summary: A simple, blog aware, static site generator.
-        Homepage: https://github.com/jekyll/jekyll
-        Path: /var/lib/gems/2.5.0/gems/jekyll-3.8.7
 $ bundle info minimal-mistakes-jekyll
-  * minimal-mistakes-jekyll (4.19.2)
-        Summary: A flexible two-column Jekyll theme.
-        Homepage: https://github.com/mmistakes/minimal-mistakes
-        Path: /var/lib/gems/2.5.0/gems/minimal-mistakes-jekyll-4.19.2
     ```
+
+## Minimal Mistakesリモートテーマをインストールする手順
+
+GitHub上でWebページを開設する場合はこちらの手順でインストールする
+
+1. 適当な名前のディレクトリを作成する  
+   (このディレクトリ内で一つのサイトを作成することになる)
+
+    ```shell
+$ mkdir ~/mysite
+    ```
+1. ディレクトリ内へ移動する
+
+    ```shell
+$ cd ~/mysite
+    ```
+1. Gemfileを編集する  
+   (`bundle init`でフォーマットを作成することもできる)
+
+    ```shell
+$ vi Gemfile
+    ```
+
+    ```ruby
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+    ```
+1. インストールする
+
+    ```shell
+$ bundle
+    ```
+   `sudo bundle`にしないこと
+
+1. _config.ymlを編集する
+
+    ```shell
+$ vi _config.yml
+    ```
+   pluginsにjekyll-include-cacheを追加する
+
+    ```config
+plugins:
+  - jekyll-include-cache
+    ```
+1. bundle
+
+    ```shell
+$ bundle install
+    ```
+1. バージョンやインストールされた場所などを確認する
+
+    ```shell
+$ bundle info jekyll
+$ bundle info minimal-mistakes-jekyll
+    ```
+
