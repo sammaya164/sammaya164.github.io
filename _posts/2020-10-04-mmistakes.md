@@ -1,13 +1,13 @@
 ---
-title: "JekyllのMinimalMistakesテーマをインストールする"
+title: "#04 JekyllのMinimalMistakesテーマをインストールする"
 categories: "ラズパイ"
 ---
 
 ## Jekyllとは
-*ホームページ作成ツールの一種
+* ホームページ作成ツールの一種
 * データベースやCGIを必要としない(静的)
 * Rubyで書かれている
-* * Markdown記法が使える
+* Markdown記法が使える
 * プログラムコードのシンタックスハイライトが使える
 
 ### Jekyllの公式サイト
@@ -17,7 +17,7 @@ categories: "ラズパイ"
 
 * [https://jekyllrb-ja.github.io/](https://jekyllrb-ja.github.io)
 
-## 準備としてBundlerをインストールする
+## 準備としてBundlerをインストールする手順
 1. パッケージを更新しておく
 
     ```shell
