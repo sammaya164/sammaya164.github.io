@@ -10,14 +10,20 @@ categories: "ラズパイ"
 * Markdown記法が使える
 * プログラムコードのシンタックスハイライトが使える
 
-### Jekyllの公式サイト
-* [https://jekyllrb.com/](https://jekyllrb.com)
+### 参考
+Jekyllの公式サイト
+
+[https://jekyllrb.com/](https://jekyllrb.com)
 
 日本語ページはこちら
 
-* [https://jekyllrb-ja.github.io/](https://jekyllrb-ja.github.io)
+[https://jekyllrb-ja.github.io/](https://jekyllrb-ja.github.io)
 
-## 準備としてBundlerをインストールする手順
+Minimal Mistakesのインストール方法
+
+[https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+## 準備としてBundlerをインストールする
 1. パッケージを更新しておく
 
     ```shell
