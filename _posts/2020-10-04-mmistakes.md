@@ -109,13 +109,6 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
     ```
-1. インストールする
-
-    ```shell
-$ bundle
-    ```
-   `sudo bundle`にしないこと
-
 1. _config.ymlを編集する
 
     ```shell
@@ -127,11 +120,13 @@ $ vi _config.yml
 plugins:
   - jekyll-include-cache
     ```
-1. bundle
+
+1. インストールする
 
     ```shell
-$ bundle install
+$ bundle
     ```
+   `sudo bundle`にしないこと
 1. バージョンやインストールされた場所などを確認する
 
     ```shell
