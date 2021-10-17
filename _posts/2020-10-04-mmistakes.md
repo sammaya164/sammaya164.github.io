@@ -45,8 +45,6 @@ $ bundler -v
 
 ## JekyllのMinimal Mistakesテーマをインストールする手順
 
-一般のレンタルサーバや自前のサーバ上でWebページを開設する場合はこちらの手順でインストールする
-
 1. 適当な名前のディレクトリを作成する  
    (このディレクトリ内で一つのサイトを作成することになる)
 
@@ -67,7 +65,7 @@ $ vi Gemfile
 
     ```ruby
 source "https://rubygems.org"
-gem "jekyll", "~> 3.8.3"
+gem "jekyll"
 gem "minimal-mistakes-jekyll"
     ```
 1. インストールする
