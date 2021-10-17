@@ -1,4 +1,5 @@
 ---
+title: "test_さんま屋"
 layout: categories
 author_profile: true
 header:
