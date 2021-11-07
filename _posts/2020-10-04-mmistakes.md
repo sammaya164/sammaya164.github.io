@@ -10,16 +10,6 @@ categories: "ラズパイ"
 * Markdown記法が使える
 * プログラムコードのシンタックスハイライトが使える
 
-### 参考
-Jekyllの公式サイト  
-[https://jekyllrb.com/](https://jekyllrb.com)
-
-日本語ページはこちら  
-[https://jekyllrb-ja.github.io/](https://jekyllrb-ja.github.io)
-
-Minimal Mistakesのインストール方法  
-[https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-
 ## 準備としてBundlerをインストールしておく
 1. パッケージを更新しておく
 
@@ -79,4 +69,7 @@ $ bundle install
 $ bundle info jekyll
 $ bundle info minimal-mistakes-jekyll
     ```
+## 参考
 
+Minimal Mistakesのインストール方法  
+[https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
