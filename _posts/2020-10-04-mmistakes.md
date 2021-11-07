@@ -69,6 +69,7 @@ $ bundle install
 $ bundle info jekyll
 $ bundle info minimal-mistakes-jekyll
     ```
+
 ## 参考
 
 Minimal Mistakesのインストール方法  
