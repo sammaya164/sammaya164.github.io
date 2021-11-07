@@ -1,5 +1,5 @@
 ---
-title: "test_さんま屋"
+title: "カテゴリー別記事一覧"
 layout: categories
 author_profile: true
 header:
