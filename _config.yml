@@ -5,19 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minima"
 # remote_theme           : ""
 
 # Site Settings
 locale                   : "ja"
-title                    : "さんま屋"
-#name                     : "Sammaya"
-#description              : "About computer"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : /sammaya164/sammaya164.github.io # GitHub username/repo-name
+title                    : ""
+#name                    : "Sammaya"
+#description             : "About computer"
+#url                     :
