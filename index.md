@@ -1,5 +1,5 @@
 ---
-title: "sammaya"
+name: "sammaya"
 ---
 
-[VbScript](https://www.sammaya.jp/vbscript)
+[VbScriptさんま屋](https://www.sammaya.jp/vbscript)
