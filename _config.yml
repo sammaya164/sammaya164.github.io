@@ -10,16 +10,14 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : ""
+theme                  : "minima"
 # remote_theme           : ""
 
 # Site Settings
 locale                   : "ja"
 title                    : "さんま屋"
-title_separator          : "-"
-subtitle                 : ""
 name                     : "Sammaya"
 description              : "About computer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : /sammaya164/sammaya164.github.io # GitHub username/repo-name
