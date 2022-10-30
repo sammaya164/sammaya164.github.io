@@ -1,1 +1,1 @@
-![VbScript](https://www.sammaya.jp/vbscript)
+[VbScript](https://www.sammaya.jp/vbscript)
