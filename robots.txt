@@ -1,4 +1,5 @@
 User-Agent:*
 Disallow:/test/
 Disallow:/comp/
+Disallow:/old/
  
